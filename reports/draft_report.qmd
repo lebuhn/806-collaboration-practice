@@ -1,0 +1,31 @@
+---
+title: "Draft Data Science Report"
+author: "Your Name"
+format: html
+---
+
+## Introduction
+
+This report examines species count data. The purpose of the analysis is not fully developed yet.
+
+## Data
+
+The dataset comes from a simple CSV file included in the repository. It contains counts of different species.
+
+## Analysis
+
+```{r}
+# Load data
+data <- read.csv("../data/species_counts.csv")
+
+# Calculate total count
+total <- sum(data$count)
+
+# Print result
+total
+
+```
+Discussion
+
+The results show differences among species, but the interpretation is unclear.
+

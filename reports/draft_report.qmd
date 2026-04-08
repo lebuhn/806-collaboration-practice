@@ -29,3 +29,6 @@ Discussion
 
 The results show differences among species, but the interpretation is unclear.
 
+### 
+
+This R code reads a CSV file containing species count data into a dataframe, then calculates the total number of individuals by summing all values in the count column. Finally, it outputs this total to the console.

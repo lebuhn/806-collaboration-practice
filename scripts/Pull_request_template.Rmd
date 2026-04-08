@@ -1,0 +1,21 @@
+---
+title: "Pull_request_template"
+author: "Gretchen LeBuhn"
+date: "2026-04-06"
+output: html_document
+---
+
+## What does this PR do?
+
+Briefly describe the change.
+
+## Which issue does it address?
+
+Closes \#
+
+## Checklist
+
+-   [ ] I created a branch
+-   [ ] I made a focused change
+-   [ ] I wrote a clear commit message
+-   [ ] I linked the issue

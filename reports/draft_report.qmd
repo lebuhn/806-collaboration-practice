@@ -28,7 +28,7 @@ total
 
 ## Methods 
 Species_counts (data) was summarized using $count column and the sum() function, which
-returned total number of $count
+returned total number of $count.
 
 Discussion
 

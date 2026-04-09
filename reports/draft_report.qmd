@@ -1,6 +1,6 @@
 ---
-title: "Draft Data Science Report"
-author: "Your Name"
+title: "Tree Species Count Data"
+author: "The Class of CSC806"
 format: html
 ---
 

@@ -22,7 +22,7 @@ data <- read.csv("../data/species_counts.csv") # read.csv can read in spreadshee
 total <- sum(data$count) # sum(data$count) adds all the data in the count column
 
 # Print result
-total # print the name of the variable to see the result
+total # print the name of the variable, total, which will give the total number of data in the count column
 
 ```
 Discussion

@@ -25,8 +25,11 @@ total <- sum(data$count) # sum(data$count) adds all the data in the count column
 total # print the name of the variable, total, which will give the total number of data in the count column
 
 ```
+
+## Result
+
+The dataset contains 4 species entries with a total count of 45 observations. Pine has the highest count with 18 observations, followed by oak with 12, maple with 9, and birch with 6. Birch has the lowest count in the dataset.
+
 Discussion
 
-The results show differences among species, but the interpretation is unclear.
-The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood. 
-
+The results show differences among species, but the interpretation is unclear. The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood.

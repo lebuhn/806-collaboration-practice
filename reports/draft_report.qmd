@@ -9,8 +9,9 @@ format: html
 This report examines species count data. The purpose of the analysis is not fully developed yet.
 
 ## Data
+This dataset contains counts of different tree species observed in a study area. The variables include species, which identifies the type of tree (oak, pine, maple, birch), and count, which represents the number of trees counted for each species. The data comes from a field-based ecological survey of tree populations in Golden Gate Park. The data set was retrieved from a CSV file hosted on GitHub on April 9th, 2026.
 
-The dataset comes from a simple CSV file included in the repository. It contains counts of different species.
+The dataset comes from a simple CSV file included in the repository . It contains counts of different species.
 
 ## Analysis
 
@@ -25,8 +26,7 @@ total <- sum(data$count) # sum(data$count) adds all the data in the count column
 total # print the name of the variable, total, which will give the total number of data in the count column
 
 ```
+
 Discussion
 
-The results show differences among species, but the interpretation is unclear.
-The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood. 
-
+The results show differences among species, but the interpretation is unclear. The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood.

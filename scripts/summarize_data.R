@@ -6,3 +6,5 @@ total <- sum(data$count)
 
 # Print result
 print(total)
+
+# looks organized to me :)

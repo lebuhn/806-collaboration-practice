@@ -25,6 +25,11 @@ total <- sum(data$count)
 total
 
 ```
+
+## Methods 
+Species_counts (data) was summarized using $count column and the sum() function, which
+returned total number of $count
+
 Discussion
 
 The results show differences among species, but the interpretation is unclear.

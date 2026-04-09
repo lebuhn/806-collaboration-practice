@@ -1,0 +1,8 @@
+---
+title: "collaboration_guide"
+output: html_document
+---
+
+## Description
+
+What a pull request is and why review matters?

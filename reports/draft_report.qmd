@@ -16,13 +16,13 @@ The dataset comes from a simple CSV file included in the repository. It contains
 
 ```{r}
 # Load data
-data <- read.csv("../data/species_counts.csv")
+data <- read.csv("../data/species_counts.csv") # read.csv can read in spreadsheets that are in the .csv
 
 # Calculate total count
-total <- sum(data$count)
+total <- sum(data$count) # sum(data$count) adds all the data in the count column
 
 # Print result
-total
+total # print the name of the variable to see the result
 
 ```
 Discussion

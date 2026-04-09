@@ -28,4 +28,5 @@ total
 Discussion
 
 The results show differences among species, but the interpretation is unclear.
+The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood. 
 

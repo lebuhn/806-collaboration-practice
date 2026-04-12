@@ -25,7 +25,13 @@ total <- sum(data$count)
 total
 
 ```
+
+| Species | Total |
+|---------|-------|
+| Birch   | 6     |
+| Maple   | 9     |
+| Oak     | 12    |
+
 Discussion
 
 The results show differences among species, but the interpretation is unclear.
-

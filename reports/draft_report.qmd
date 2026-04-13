@@ -6,7 +6,7 @@ format: html
 
 ## Introduction
 
-This report examines species count data. The purpose of the analysis is not fully developed yet.
+This report examines species count data and shows the differences between the species. The purpose of the analysis is to compare the differences between the species. The data matters because it showcases the count of the species. Using this data, we can analyze the count and run the appropriate tests given our research question. 
 
 ## Data
 

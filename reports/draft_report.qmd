@@ -6,7 +6,7 @@ format: html
 
 ## Introduction
 
-This report examines species count data, though the overall purpose of the analysis has not yet been fully developed. 
+This report examines species count data. However, the overall purpose of the analysis has not yet been fully developed. 
 
 ## Data
 

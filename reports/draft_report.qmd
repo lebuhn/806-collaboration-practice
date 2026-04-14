@@ -30,4 +30,4 @@ total # print the name of the variable, total, which will give the total number 
 
 Discussion
 
-The results show differences among species, but the interpretation is unclear. The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood.
+The species count summary indicates that pine is the main dominant species in the study area, followed by oak, maple and birch, with the total of 45 trees recorded. This distribution means that the environment factors species adapted to slightly warmer or transitional conditions, as pine trees tend to be more abundant in Transition Hardwood forests compared to the cooler Northern Hardwood systems.The lower abundance of maple and birch, which are more common in cooler climates, further supports this interpretation. Overall, the species composition points towards a forest ecosystem that may be influenced by warmer temperatures. 

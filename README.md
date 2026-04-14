@@ -6,7 +6,7 @@ while working on a small ecology project.
 
 ## Setup Instructions
 
-1. Go to the repository on GitHub and click the green **Code** button. Copy the HTTPS URL.
+1. Go to the repository on GitHub and click the green Code button (located at the top right of the repository page). Copy the HTTPS URL.
 
 2. Open RStudio and go to **File → New Project → Version Control → Git**, then paste the repository URL and create the project.
 

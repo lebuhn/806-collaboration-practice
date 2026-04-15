@@ -1,31 +1,33 @@
 ---
-title: "Draft Data Science Report"
-author: "Your Name"
+title: "Tree Species Count Data"
+author: "The Class of CSC806"
 format: html
 ---
 
 ## Introduction
 
-This report examines species count data. However, the overall purpose of the analysis has not yet been fully developed. 
+This report examines species count data and shows the differences between the species. The purpose of the analysis is to compare the differences between the species. The data matters because it showcases the count of the species. Using this data, we can analyze the count and run the appropriate tests given our research question. 
 
 ## Data
 
-The dataset comes from a simple CSV file included in the repository. It contains counts of different species.
+This dataset contains counts of different tree species observed in a study area. The variables include species, which identifies the type of tree (oak, pine, maple, birch), and count, which represents the number of trees recorded for each species. The dataset was retrieved from a CSV file on GitHub (retrieved on April 9, 2026) and represents data collected through a field-based ecological survey of tree populations. 
+
+The dataset comes from a simple CSV file included in the repository . It contains counts of different species.
 
 ## Analysis
 
 ```{r}
 # Load data
-data <- read.csv("../data/species_counts.csv")
+data <- read.csv("../data/species_counts.csv") # read.csv can read in spreadsheets that are in the .csv
 
 # Calculate total count
-total <- sum(data$count)
+total <- sum(data$count) # sum(data$count) adds all the data in the count column
 
 # Print result
-total
+total # print the name of the variable, total, which will give the total number of data in the count column
 
 ```
+
 Discussion
 
-The results show differences among species, but the interpretation is unclear.
-
+The results show differences among species, but the interpretation is unclear. The data shows counts of four different tress. The total number of trees is 45, with pine being the most abundant type of tree, followed by oak, maple, and birch. These types of trees are found in Northern Hardwood and Transition Hardwood environments. A higher abundance of pine vs maple and birch suggest a warmer environment, likely Transition Hardwood.

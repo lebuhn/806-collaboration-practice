@@ -17,7 +17,7 @@ trees show how different species can adapt to their environments while still pla
 
 ## Data
 
-This dataset contains counts of different tree species observed in a study area. The variables include species, which identifies the type of tree (oak, pine, maple, birch), and count, which represents the number of trees recorded for each species. The dataset was retrieved from a CSV file on GitHub (retrieved on April 9, 2026) and represents data collected through a field-based ecological survey of tree populations. 
+This dataset contains counts of different tree species observed in a study area. The variables include species, which identifies the type of tree (oak, pine, maple, birch), and count, which represents the number of trees recorded for each species. The dataset was retrieved from a CSV file on GitHub (retrieved on April 9, 2026) and represents data collected through a field-based ecological survey of tree populations. The trees were identified in shasta national park
 
 The dataset comes from a simple CSV file included in the repository . It contains counts of different species.
 

@@ -13,3 +13,7 @@ This repository is for practicing collaborative workflows on GitHub. The goal is
 4.  Click the branch dropdown and select **New Branch**, then name your branch using the format `issue-#-short-description` (example: `issue-2-readme-setup`).
 
 5.  Make sure you are working on your new branch before making any changes.
+
+## Changes based on comments
+
+This PR addresses Issue #25 by working on the designated issue branch and following the structured GitHub workflow. I made targeted edits to the README to improve clarity in the setup instructions. I also ensured the PR is properly linked to the issue so it will close upon merge.

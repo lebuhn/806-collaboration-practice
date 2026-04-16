@@ -8,9 +8,16 @@ format: html
 
 This report examines species count data and shows the differences between the species. The purpose of the analysis is to compare the differences between the species. The data matters because it showcases the count of the species. Using this data, we can analyze the count and run the appropriate tests given our research question. 
 
+##Background
+Trees are really important in ecosystems because they help produce oxygen, store carbon, and provide habitats for many organisms. Some common types of trees include oak, pine, maple, and birch, and each one has its own characteristics and role in the environment.
+
+Oak trees are strong, long-living hardwood trees that produce acorns, which are an important food source for animals. Pine trees are evergreen conifers with needle-like leaves that stay green all year, allowing them to survive in colder and harsher environments. Maple trees are known for their unique leaves and bright fall colors, and some species are used to make maple syrup. Birch trees are easy to recognize because of their white, peeling bark and are often one of the first trees to grow back in disturbed areas.
+
+trees show how different species can adapt to their environments while still playing important roles in maintaining healthy ecosystems.
+
 ## Data
 
-This dataset contains counts of different tree species observed in a study area. The variables include species, which identifies the type of tree (oak, pine, maple, birch), and count, which represents the number of trees recorded for each species. The dataset was retrieved from a CSV file on GitHub (retrieved on April 9, 2026) and represents data collected through a field-based ecological survey of tree populations. 
+This dataset contains counts of different tree species observed in a study area. The variables include species, which identifies the type of tree (oak, pine, maple, birch), and count, which represents the number of trees recorded for each species. The dataset was retrieved from a CSV file on GitHub (retrieved on April 9, 2026) and represents data collected through a field-based ecological survey of tree populations. The trees were identified in shasta national park
 
 The dataset comes from a simple CSV file included in the repository . It contains counts of different species.
 

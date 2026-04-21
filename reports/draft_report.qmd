@@ -35,6 +35,12 @@ total # print the name of the variable, total, which will give the total number 
 
 ```
 
+## Methods 
+Species_counts (data) was summarized using $count column and the sum() function, which
+returned total number of $count.
+
+Discussion
+
 Discussion
 
 The species count summary indicates that pine is the main dominant species in the study area, followed by oak, maple and birch, with the total of 45 trees recorded. This distribution means that the environment factors species adapted to slightly warmer or transitional conditions, as pine trees tend to be more abundant in Transition Hardwood forests compared to the cooler Northern Hardwood systems.The lower abundance of maple and birch, which are more common in cooler climates, further supports this interpretation. Overall, the species composition points towards a forest ecosystem that may be influenced by warmer temperatures. 

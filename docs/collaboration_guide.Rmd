@@ -1,0 +1,14 @@
+---
+title: "collaboration_guide"
+output: html_document
+---
+
+## Description
+
+What a pull request is and why review matters?
+
+## Methods
+To understand why pull requests matter on GitHub, we followed a standard collaborative workflow. First, a new branch was created from the main branch to isolate changes related to a specific issue. Edits and additions were made locally, then staged, committed with descriptive messages, and pushed to the remote repository. A pull request (PR) was then opened to propose merging these changes back into the main branch.
+
+## Discussion
+Pull requests are essential because they create a structured checkpoint between writing code and integrating it into a shared project. They promote collaboration by allowing team members to review each other’s work, catch errors early, and suggest improvements before changes become permanent.
